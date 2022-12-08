@@ -1,0 +1,14 @@
+# qssi-user 11 RP1A.201005.001 2202182344 release-keys
+- manufacturer: oneplus
+- platform: kona
+- codename: OnePlus8T
+- flavor: qssi-user
+- release: 11
+- id: RP1A.201005.001
+- incremental: 2202182344
+- tags: release-keys
+- fingerprint: OnePlus/OnePlus8T_EEA/OnePlus8T:11/RP1A.201005.001/2202182344:user/release-keys
+- is_ab: true
+- brand: OnePlus
+- branch: qssi-user-11-RP1A.201005.001-2202182344-release-keys
+- repo: oneplus_oneplus8t_dump

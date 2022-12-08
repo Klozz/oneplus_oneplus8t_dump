@@ -1,0 +1,8 @@
+recovery.img
+product/priv-app/Velvet/Velvet.apk
+modem.img
+system_ext/priv-app/OnePlusCamera/OnePlusCamera.apk
+system_ext/priv-app/Settings/Settings.apk
+system_ext/priv-app/OnePlusGallery/OnePlusGallery.apk
+system/system/apex/com.android.vndk.current.apex
+reserve/CanvasResources/CanvasResources.apk
